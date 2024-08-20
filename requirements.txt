@@ -1,0 +1,6 @@
+
+flask
+gunicorn
+
+# used in setup.py for jcc for pylucene; in 70+, there's an import that fails and causes it to build incorrectly - https://github.com/pypa/setuptools/issues/4374
+setuptools < 70

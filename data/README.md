@@ -1,0 +1,1 @@
+This directory is for putting the CSV data files in, but they are too big for GitHub.  They can be downloaded from [this Google folder](https://drive.google.com/drive/folders/1TNP1RU6tjSVeEjU19C4K1JH95d0TqEeF?usp=sharing).  In my version of the 2021 file, I removed all `U+000A` characters.
