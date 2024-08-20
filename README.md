@@ -1,6 +1,6 @@
 # Overview
 
-This is a submission for the Internet Democracy Initiative's [take-home assignment]([https://docs.google.com/document/d/1BGro-7cGty90IhFWNmV3EhxyBv3AWzJecIaoOoRcc5w/): a system for storing and querying a dataset of tweets about Britney Spears.  I did not have time to build a fully functioning system; the Docker and Flask aspects work, but the Lucene aspects have not been run because the installation and setup for Lucene/PyLucene turned out to be much more complicated than I anticipated, so I wrote code to approximate what I think would work if I could run it.  I did spend more than eight hours on this task if you include all of the trying to get Lucene working.
+This is a submission for the Internet Democracy Initiative's [take-home assignment](https://docs.google.com/document/d/1BGro-7cGty90IhFWNmV3EhxyBv3AWzJecIaoOoRcc5w/): a system for storing and querying a dataset of tweets about Britney Spears.  I did not have time to build a fully functioning system; the Docker and Flask aspects work, but the Lucene aspects have not been run because the installation and setup for Lucene/PyLucene turned out to be much more complicated than I anticipated, so I wrote code to approximate what I think would work if I could run it.  I did spend more than eight hours on this task if you include all of the trying to get Lucene working.
 
 
 # Design decisions
